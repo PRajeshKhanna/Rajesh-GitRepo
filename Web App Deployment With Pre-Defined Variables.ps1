@@ -21,6 +21,6 @@
 # Procedure To Follow To Create A WebApp With Variables.
 
 
-# New-AzWebApp -ResourceGroupName $RGname -Name $WebAppname -Location $WebAppLocation -AppServicePlan $WebAppASPname -Verbose
+  New-AzWebApp -ResourceGroupName $RGname -Name $WebAppname -Location $WebAppLocation -AppServicePlan $WebAppASPname -Verbose
 
-  Remove-AzWebApp -ResourceGroupName $RGname -Name $WebAppname -Verbose
+# Remove-AzWebApp -ResourceGroupName $RGname -Name $WebAppname -Verbose

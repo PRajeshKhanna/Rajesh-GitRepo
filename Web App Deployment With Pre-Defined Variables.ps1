@@ -1,4 +1,4 @@
-﻿# This PS Script Will Deploy A Azure WebApp BY Using The Variables Pre Defined.
+﻿# This PS Script Will Deploy A Azure WebApp BY Using The Variables Pre Defined values.
 
 <# Declaring A VAriable In PowerShell
    $variablename. #>

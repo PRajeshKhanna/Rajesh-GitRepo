@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  name: Rajesh_Agents
 
 stages:
   - stage: Deployment_Stage
